@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "Product": "Chai",
+            "ID": 1,
+            "Unit Price": 18,
+            "Qty Per Unit": "10 boxes x 20 bags",
+            "In Stock": 39,
+            "On Order": 0,
+            "Reorder Level": 10,
+            "Discontinued": "",
+            "Category": "Beverages - Soft drinks, coffees, teas, beers, and ales"
+        },
+        {
+            "Product": "Chang",
+            "ID": 2,
+            "Unit Price": 19,
+            "Qty Per Unit": "24 - 12 oz bottles",
+            "In Stock": 17,
+            "On Order": 40,
+            "Reorder Level": 25,
+            "Discontinued": "",
+            "Category": "Beverages - Soft drinks, coffees, teas, beers, and ales"
+        },
+        {
+            "Product": "Aniseed Syrup",
+            "ID": 3,
+            "Unit Price": 10,
+            "Qty Per Unit": "12 - 550 ml bottles",
+            "In Stock": 13,
+            "On Order": 70,
+            "Reorder Level": 25,
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Chef Anton's Cajun Seasoning",
+            "ID": 4,
+            "Unit Price": 22,
+            "Qty Per Unit": "48 - 6 oz jars",
+            "In Stock": 53,
+            "On Order": 0,
+            "Reorder Level": 0,
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Chef Anton's Gumbo Mix",
+            "ID": 5,
+            "Unit Price": 21.35,
+            "Qty Per Unit": "36 boxes",
+            "In Stock": 0,
+            "On Order": 0,
+            "Reorder Level": 0,
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Grandma's Boysenberry Spread",
+            "ID": 6,
+            "Unit Price": 25,
+            "Qty Per Unit": "12 - 8 oz jars",
+            "In Stock": 120,
+            "On Order": 0,
+            "Reorder Level": 25,
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        }
+    ]
+}
