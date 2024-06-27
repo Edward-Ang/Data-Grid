@@ -15,8 +15,8 @@ const Table: React.FC = () => {
         <>
             <div className='w-full h-full p-12'>
                 <div className="overflow-x-auto h-[300px] w-full max-w-[750px] flex justify-center top-0">
-                    <table className="w-full bg-white border border-gray-300 relative">
-                        <thead className="sticky top-0 z-10 bg-gray-100 border border-gray-300">
+                    <table className="w-full bg-white border border-gray-300">
+                        <thead>
                             <tr>
                                 <th className="px-2 py-2 border border-gray-300 text-left text-sm font-semibold text-gray-600">
                                 </th>
